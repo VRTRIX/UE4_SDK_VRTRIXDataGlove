@@ -13,16 +13,18 @@ SDK Version 1.0
 Upload date：xxxx-xx-xx
 
 Inside this SDK
- Folders : VRTRIX 
+ Folders :  
            Plugin 
-           plugin_test			   
+           UE4_DEMO_EXE
+		   UE4_DEMO_ProjectFile
+           		   
  PDF File:
            Device_Setup
            UE4_Developer_Manual
 Note:
-VRTRIX contains all the UE4 resource we provide for you to make it easier to develop UE4 apps on our gloves.
 Plugin contains the base component you need to have for UE4 developing on our gloves.
-plugin_test contains an example shows how to use our resource and Plguin.	
+UE4_DEMO_ProjectFile contains an example project shows how to use our resource and Plguin.	
+UE4_DEMO_EXE is the packaged version our demo project.
 		   
 Device_Setup need to be read by both User and Developer.		   
 UE4_Developer_Manual containes some key instruction for UE4 developer.
