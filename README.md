@@ -13,7 +13,7 @@ VRTRIX IMU modules includes 9-axis sensors (gyro, accel & mag), where rotation q
 
 This repository contains the VRTRIX Glove UE4 Plugin, which includes assets that you can use to develop applications in Unity on your Windows PC while using our VRTRIX Data Glove. These assets include models, buleprints and some simple examples to help you quickly get the hand on development in both 3D & VR/AR environment. 
 
-**To download VRTRIX Glove latest stable UE4 Plugin Release as .unitypackages, visit [our release page][devsite].**
+**To download VRTRIX Glove latest stable UE4 Plugin Release, visit [our release page][devsite].**
 
 ## Support
 
@@ -21,5 +21,5 @@ This repository contains the VRTRIX Glove UE4 Plugin, which includes assets that
 
 - Note that this repository may contains code for work-in-progress modules, tentative modules, or older modules that may be unsupported.We recommend using the release version packages available on the [our release page][devsite].
 
-[chinese]: https://github.com/VRTRIX/VRTRIXGlove_Unity3D_SDK/blob/master/README_CN.md "chinese"
-[devsite]: https://github.com/VRTRIX/UE4_SDK_VRTRIXDataGlove/releases "VRTRIX Glove Unity Plugin Release site"
+[chinese]: https://github.com/VRTRIX/UE4_SDK_VRTRIXDataGlove/blob/master/README_CN.md "chinese"
+[devsite]: https://github.com/VRTRIX/UE4_SDK_VRTRIXDataGlove/releases "VRTRIX Glove UE4 Release site"
